@@ -1,5 +1,5 @@
 name: firebase_multi_factor_auth
-description: A new Flutter project.
+description: Flutter & Dart library for implementing multi factor auth via Firebase. 
 authors:
   - ubu2020user
 version: 0.0.1
