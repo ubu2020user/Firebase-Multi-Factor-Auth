@@ -1,0 +1,4 @@
+enum MultiFactorAuthType {
+  GOOGLE,
+  PHONE,
+}
